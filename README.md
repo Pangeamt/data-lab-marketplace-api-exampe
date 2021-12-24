@@ -13,6 +13,6 @@ pip install anyio
 python main.py
 ````
 
-## Api docs
+## API docs
 
 http://marketplace.pangeamt.com:8080/docs
